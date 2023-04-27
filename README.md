@@ -20,8 +20,6 @@ The methodology for this project includes the following steps:
 
     Data wrangling: We will use Pandas and NumPy to clean, preprocess, and transform the GTD data into a usable format. This includes handling missing values, encoding categorical variables, and aggregating the data by year, region, country, and other relevant variables.
     Exploratory data analysis: We will use Pandas, NumPy, and data visualization tools such as Matplotlib and Seaborn to explore the data and gain insights into the trends and patterns of terrorism worldwide. This includes creating line plots, bar plots, heatmaps, and other visualizations to visualize the data and identify the most relevant features.
-    Feature engineering: We will create new features from the existing data to extract more meaningful insights. For example, we will calculate the number of attacks and casualties per capita to normalize the data by population.
-    Predictive modeling: We will use machine learning algorithms such as K-means clustering to identify groups of countries with similar patterns of terrorism and make predictions about the future trends of terrorism.
     Data visualization: We will create interactive and informative visualizations using Matplotlib and Seaborn to communicate the insights gained from the analysis. This includes creating interactive dashboards, maps, and other visualizations to engage the audience and convey the key messages of the project.
 
 Conclusion:
